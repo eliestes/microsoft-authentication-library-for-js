@@ -1,8 +1,17 @@
 # Change Log - @azure/msal-node
 
-This log was last generated on Mon, 09 Jan 2023 22:44:58 GMT and should not be manually modified.
+This log was last generated on Tue, 24 Jan 2023 00:24:22 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.15.0
+
+Tue, 24 Jan 2023 00:24:22 GMT
+
+### Minor changes
+
+- Add support for custom http(s) agents #5472 (rginsburg@microsoft.com)
+- Bump @azure/msal-common to v9.1.2
 
 ## 1.14.6
 

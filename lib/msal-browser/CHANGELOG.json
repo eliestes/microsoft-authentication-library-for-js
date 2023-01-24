@@ -2,6 +2,33 @@
   "name": "@azure/msal-browser",
   "entries": [
     {
+      "date": "Tue, 24 Jan 2023 00:24:22 GMT",
+      "tag": "@azure/msal-browser_v2.32.3",
+      "version": "2.32.3",
+      "comments": {
+        "patch": [
+          {
+            "author": "kshabelko@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "c37a5debbcac889ed509880d476e3721d3aff2bc",
+            "comment": "Adding page visibility change event for silent calls like AcquireTokenSilent #5555"
+          },
+          {
+            "author": "joarroyo@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "0c107eaadf7fe5c22367d3f22265d355acc0ac96",
+            "comment": "Revert typo changes #5582"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-browser",
+            "comment": "Bump @azure/msal-common to v9.1.2",
+            "commit": "58e57222cfde9ccd20dd839785f09bb4a07c3a06"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 09 Jan 2023 22:44:57 GMT",
       "tag": "@azure/msal-browser_v2.32.2",
       "version": "2.32.2",

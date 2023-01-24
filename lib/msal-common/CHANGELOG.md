@@ -1,8 +1,16 @@
 # Change Log - @azure/msal-common
 
-This log was last generated on Thu, 19 Jan 2023 23:50:24 GMT and should not be manually modified.
+This log was last generated on Tue, 24 Jan 2023 00:24:22 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.1.2
+
+Tue, 24 Jan 2023 00:24:22 GMT
+
+### Patches
+
+- Added missing fields to InteractionRequiredAuthError #5566 (rginsburg@microsoft.com)
 
 ## 9.1.1
 
