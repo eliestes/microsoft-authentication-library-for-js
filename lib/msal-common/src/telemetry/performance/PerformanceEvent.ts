@@ -371,4 +371,9 @@ export type PerformanceEvent = StaticFields & Counters & {
      * @type {?string}
      */
     requestId?: string
+
+    /**
+     * Flag, indicating manually completed sub-measurement
+     */
+    isIncomplete?: boolean;
 };
